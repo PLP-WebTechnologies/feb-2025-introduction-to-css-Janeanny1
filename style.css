@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+    font-family: Arial, sans-serif;
+}
+
+#About_Us {
+    font-size: 24px;
+    color: chocolate;
+    margin: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.highlight {
+    font-size: 14px;
+    text-align: center;
+    margin: 10px;
+    font-style: italic;
+    color: black;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: 250px;
+    border: 10px solid black;
+    border-radius: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 10px;
+    padding: 2px;
+    background-color: blueviolet;
+}
